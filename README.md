@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Sarah Mamdouh 👋
 
-<!--
-**SarahMamdouh21/SarahMamdouh21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Junior QA Engineer | Software Tester
 
-Here are some ideas to get you started:
+Computer Science graduate interested in Software Quality Assurance, test automation, and building reliable software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technical Skills
+- Manual Testing & Test Case Design
+- API Testing – Postman
+- UI Automation – Selenium WebDriver
+- Java & TestNG
+- REST Assured
+- Jira & Zephyr
+- Git & GitHub
+
+### QA Projects
+- Manual Testing – E-commerce Web Application
+- UI Automation – Selenium WebDriver, Java & TestNG
+- API Testing & Automation – Postman & REST Assured
+
+### Background
+- B.Sc. Computer Science – Helwan University
+- Frontend Development – Angular
+- Technical Support Engineer
+
+### Contact
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/sarah-mamdouh-8074462a4/)
+- Email: sarahmamdouh656@gmail.com
