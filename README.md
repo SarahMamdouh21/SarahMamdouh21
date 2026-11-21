@@ -18,7 +18,7 @@ Computer Science graduate interested in Software Quality Assurance, test automat
 - UI Automation – Selenium WebDriver, Java & TestNG
 - API Testing & Automation – Postman & REST Assured
 
-### Background
+### Education & Experience
 - B.Sc. Computer Science – Helwan University
 - Frontend Development – Angular
 - Technical Support Engineer
